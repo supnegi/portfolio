@@ -1,0 +1,21 @@
+.home-component .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin: 8%;
+}
+
+.home-component img {
+    height: 100px;
+    width: 200px;
+}
+
+p {
+    text-align: justify;
+}
+
+.information {
+    width: 50%;
+}
